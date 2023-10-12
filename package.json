@@ -28,5 +28,8 @@
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
     "gulp-nodemon": "^2.0.7"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.11"
   }
 }
